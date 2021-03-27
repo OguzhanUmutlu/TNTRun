@@ -2,7 +2,7 @@
 winAction:
   # true or false
   enabled: false
-  command: "say {player} won in the {map} map."
+  command: "say {player} победил в {map} карте."
 
 boostItem:
   enabled: true
